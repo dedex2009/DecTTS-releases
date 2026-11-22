@@ -1,0 +1,42 @@
+{
+  "name": "DecTTS Source",
+  "identifier": "com.dedex2009.dectts.source",
+  "subtitle": "Build automatiche di TTSReaderPro (DecTTS)",
+  "description": "Sorgente SideStore aggiornata automaticamente tramite GitHub Actions.",
+  "iconURL": "https://raw.githubusercontent.com/dedex2009/DecTTS-releases/main/icon.png",
+  "sourceURL": "https://raw.githubusercontent.com/dedex2009/DecTTS-releases/main/apps.json",
+  "tintColor": "#2D5BE3",
+  "apps": [
+    {
+      "name": "TTSReaderPro",
+      "bundleIdentifier": "com.tuonome.TTSReaderPro",
+      "developerName": "dedex2009",
+      "subtitle": "Lettore PDF ed EPUB con voci Siri",
+      "localizedDescription": "Importa PDF ed EPUB, li converte in testo e li legge con le voci di Siri su iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/dedex2009/DecTTS-releases/main/icon.png",
+      "tintColor": "#2D5BE3",
+      "category": "utilities",
+      "version": "1.0.29",
+      "versionDate": "2026-11-22T17:50:39Z",
+      "versionDescription": "Automate SideStore release publishing via DecTTS-releases",
+      "downloadURL": "https://github.com/dedex2009/DecTTS-releases/releases/download/v1.0.29/TTSReaderPro.ipa",
+      "size": 224285,
+      "versions": [
+        {
+          "version": "1.0.29",
+          "buildVersion": "29",
+          "date": "2026-11-22T17:50:39Z",
+          "localizedDescription": "Automate SideStore release publishing via DecTTS-releases",
+          "downloadURL": "https://github.com/dedex2009/DecTTS-releases/releases/download/v1.0.29/TTSReaderPro.ipa",
+          "size": 224285,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
