@@ -16,12 +16,21 @@
       "iconURL": "https://raw.githubusercontent.com/dedex2009/DecTTS-releases/main/icon.png",
       "tintColor": "#2D5BE3",
       "category": "utilities",
-      "version": "1.0.29",
-      "versionDate": "2026-11-22T17:50:39Z",
-      "versionDescription": "Automate SideStore release publishing via DecTTS-releases",
-      "downloadURL": "https://github.com/dedex2009/DecTTS-releases/releases/download/v1.0.29/TTSReaderPro.ipa",
-      "size": 224285,
+      "version": "1.0.30",
+      "versionDate": "2026-11-22T19:59:57Z",
+      "versionDescription": "Add local IPA build script and macOS USB sideload CLI",
+      "downloadURL": "https://github.com/dedex2009/DecTTS-releases/releases/download/v1.0.30/TTSReaderPro.ipa",
+      "size": 224284,
       "versions": [
+        {
+          "version": "1.0.30",
+          "buildVersion": "30",
+          "date": "2026-11-22T19:59:57Z",
+          "localizedDescription": "Add local IPA build script and macOS USB sideload CLI",
+          "downloadURL": "https://github.com/dedex2009/DecTTS-releases/releases/download/v1.0.30/TTSReaderPro.ipa",
+          "size": 224284,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.29",
           "buildVersion": "29",
